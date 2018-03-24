@@ -19,6 +19,7 @@ Each version of the site has been given two of the six vulnerabilities. (In othe
 ## Blue
 
 Vulnerability #1: Session Hijacking/Fixation
+<img src="https://github.com/rlucus/codepath8/raw/master/session_hijack.gif">
 
 Vulnerability #2: __________________
 
