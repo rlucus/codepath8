@@ -21,7 +21,8 @@ Each version of the site has been given two of the six vulnerabilities. (In othe
 Vulnerability #1: Session Hijacking/Fixation
 <img src="https://github.com/rlucus/codepath8/raw/master/session_hijack.gif">
 
-Vulnerability #2: __________________
+Vulnerability #2: SQL Injection (SQLi)
+<img src="https://github.com/rlucus/codepath8/raw/master/sqli_blue.gif">
 
 
 ## Green
